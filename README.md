@@ -74,11 +74,6 @@ Hi 👋, I'm Anand Singh Chauhan
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anand-chauhan&theme=dark&hide_border=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anand-chauhan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-chauhan&theme=dark&hide_border=true&layout=compact)
-
 ### 🚀 Featured Projects:
 - 🔗 **HRMS – HR Management System**  
   Full-stack HR platform with dashboard, employee management & analytics  
@@ -91,7 +86,11 @@ Hi 👋, I'm Anand Singh Chauhan
 - 🔗 **Movie Recommendation System**  
   AI-based recommendation system using similarity algorithms  
   👉 https://huggingface.co/spaces/anandsinghcyber/Movie-Recommendation-system  
-  
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anand-chauhan&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anand-chauhan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-chauhan&theme=dark&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anand-chauhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
